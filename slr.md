@@ -1,11 +1,11 @@
 
 
-#over Jeroen
+#over Lars 
 
-**Voornaam:** Jeroen
+**Voornaam:** Lars
 
-**Achternaam:** Slemmer
+**Achternaam:** Gruis
 
-**E-mail adres:** [jslemmer@davinci.nl](Jeroen Slemmer)
+**E-mail adres:** [99047036@davinci.nl](Lars Gruis)
 
-**Telefoon:** 0612345678
+**Telefoon:** 0618254666
